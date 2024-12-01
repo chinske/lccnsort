@@ -1,0 +1,13 @@
+LCCNSORT
+========
+
+Copyright 2024 Christopher Chinske
+
+See the file COPYING.
+
+Overview
+--------
+
+LCCNSORT is a collection of MATLAB functions/scripts for parsing
+Library of Congress call numbers and sorting a LibraryThing database
+according to the Library of Congress Classification and Shelflisting Manual.
